@@ -1,0 +1,14 @@
+{
+    "nombre": "string",
+    "posicion": "string",
+    "salario": "int",
+    "piernaHabil": "string",
+    "golesAnotados": "string",
+    "estadisticas": {
+        "golesAnotados": "int",
+        "tarjetasRojas": "int",
+        "tarjetasAmarillas": "int",
+        "partidosJugados": "int"
+    }
+
+}

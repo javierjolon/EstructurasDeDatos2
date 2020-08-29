@@ -1,0 +1,8 @@
+{
+    "nombre": "string",
+    "ciudad": "string",
+    "estadio": "string",
+    "cantidadJugadores": "int",
+    "entrenador": "string",
+    "jugadorEstrella": "string"
+}
